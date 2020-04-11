@@ -3,7 +3,7 @@
  Lists of .NET Obfuscator
  
  <p align="center">
-  <img src="https://www.mindphp.com/images/k❌ Nowledge/IT/Microsoft_.NET_logo.png"/>
+  <img src="https://www.mindphp.com/images/knowledge/IT/Microsoft_.NET_logo.png"/>
 </p>
 
 | Name/Website |                                Free? |         Protect strings | Protect code flow | Protect calls | Protect resources | Protect names |  Anti tampering |  Anti debugger | Virtualization protection | Packer/Compressor |
@@ -11,7 +11,7 @@
 |[Agile.NET](https://secureteam.net/acode) | ❌ No ($795) |            ✅ Yes           | ✅ Yes                 | ✅ Yes          | ✅ Yes                 | ✅ Yes          | ✅ Yes            | ✅ Yes                  | ✅ Yes                  | ❌ No
 |[Appfuscator](https://appfuscator.com/) | ❌ No Freemium ($18/day) |   ✅ Yes           | ✅ Yes                 | ✅ Yes          | ❌ No                  | ✅ Yes          | ❌ No             | ❌ No                   | ❌ No                   | ❌ No
 |[ArmDOT](https://www.armdot.com/) | ❌ No Freemium ($299)           |   ❌ No            | ❌ No                  | ❌ No           | ❌ No                  | ❌ No           | ❌ No             | ❌ No                   | ✅ Yes                  | ❌ No
-|[AsStrongAsFuck](https://github.com/Charteri❌ No/AsStrongAsFuck) | ✅ Yes  |   ✅ Yes    | ✅ Yes                 | ✅ Yes          | ❌ No                  | ✅ Yes          | ❌ No             | ❌ No                   | ❌ No                   | ✅ Yes
+|[AsStrongAsFuck](https://github.com/Charterino/AsStrongAsFuck) | ✅ Yes  |   ✅ Yes    | ✅ Yes                 | ✅ Yes          | ❌ No                  | ✅ Yes          | ❌ No             | ❌ No                   | ❌ No                   | ✅ Yes
 |[Babel](https://www.babelfor.net/)        | ❌ No (245€)          |   ✅ Yes           | ✅ Yes                 | ✅ Yes          | ❌ No                  | ✅ Yes          | ❌ No             | ✅ Yes                  | ✅ Yes                  | ❌ No
 |[Beds Protector](https://github.com/BedTheGod/ConfuserEx-Mod-By-Bed) | ✅ Yes | ✅ Yes | ✅ Yes                 | ✅ Yes          | ✅ Yes                 | ✅ Yes          | ✅ Yes            | ✅ Yes                  | ❌ No                   | ✅ Yes
 |[BitHelmet](https://bithelmet.software.informer.com/) | ✅ Yes    | ❌ No              | ✅ Yes                 | ❌ No           | ❌ No                  | ✅ Yes          | ❌ No             | ❌ No                   | ❌ No                   | ❌ No 
@@ -37,10 +37,10 @@
 |[MemeVM](https://github.com/TobitoFatitoNulled/MemeVM)| ✅ Yes    |  ❌ No             | ❌ No                  | ❌ No           | ❌ No                  | ❌ No           | ❌ No             | ❌ No                   | ✅ Yes                  | ❌ No
 |[ModPhuserEx](https://github.com/0xFireball/ModPhuserEx)| ✅ Yes  |  ✅ Yes            | ✅ Yes                 | ✅ Yes          | ✅ Yes                 | ✅ Yes          | ✅ Yes            | ✅ Yes                  | ❌ No                   | ❌ No
 |[NETReactor](https://www.eziriz.com/)| ❌ No ($179)               |  ✅ Yes            | ✅ Yes                 | ✅ Yes          | ✅ Yes                 | ✅ Yes          | ✅ Yes            | ✅ Yes                  | ✅ Yes                  | ❌ No
-|[NeoConfuserEx](https://github.com/Xe❌ NocodeRCE/neo-ConfuserEx) | ✅ Yes |  ✅ Yes      | ✅ Yes                 | ✅ Yes          | ✅ Yes                 | ✅ Yes          | ✅ Yes            | ✅ Yes                  | ✅ Yes with [KoiVM](https://github.com/yck1509/KoiVM) (free) | ✅ Yes
+|[NeoConfuserEx](https://github.com/XenocodeRCE/neo-ConfuserEx) | ✅ Yes |  ✅ Yes      | ✅ Yes                 | ✅ Yes          | ✅ Yes                 | ✅ Yes          | ✅ Yes            | ✅ Yes                  | ✅ Yes with [KoiVM](https://github.com/yck1509/KoiVM) (free) | ✅ Yes
 |[NETGuard](https://netguard.io/)| ❌ No ($5 for 2 obfuscations)   |  ✅ Yes            | ✅ Yes                 | ✅ Yes          | ❌ No                  | ✅ Yes          | ✅ Yes            | ✅ Yes                  | ✅ Yes                  | ❌ No
 |[NetShieldObfuscator](https://discord.gg/baVPenN)| ❌ No (10€ for 4 obfuscations)   |  ✅ Yes | ✅ Yes          | ✅ Yes          | ❌ No                  | ✅ Yes          | ✅ Yes            | ✅ Yes                  | ✅ Yes                  | ❌ No
-|[Noisette](https://github.com/XeNocodeRCE/❌ Noisette-Obfuscator)| ✅ Yes   |  ✅ Yes     | ✅ Yes                 | ✅ Yes          | ❌ No                  | ✅ Yes          | ❌ No             | ❌ No                   | ❌ No                   | ❌ No
+|[Noisette](https://github.com/XeNocodeRCE/Noisette-Obfuscator)| ✅ Yes   |  ✅ Yes     | ✅ Yes                 | ✅ Yes          | ❌ No                  | ✅ Yes          | ❌ No             | ❌ No                   | ❌ No                   | ❌ No
 |[Obfuscar](https://github.com/obfuscar/obfuscar)| ✅ Yes          |  ✅ Yes            | ❌ No                  | ❌ No           | ❌ No                  | ✅ Yes          | ❌ No             | ❌ No                   | ❌ No                   | ❌ No
 |[PhoenixProtector](https://ntcore.com/?page_id=384)| ✅ Yes       |  ✅ Yes            | ✅ Yes                 | ❌ No           | ❌ No                  | ✅ Yes          | ❌ No             | ❌ No                   | ❌ No                   | ❌ No
 |[PandaObfuscator](https://github.com/barotyson/Panda-Obfuscator)| ✅ Yes |  ✅ Yes     | ✅ Yes                 | ✅ Yes          | ❌ No                  | ❌ No           | ❌ No             | ❌ No                   | ❌ No                   | ❌ No
