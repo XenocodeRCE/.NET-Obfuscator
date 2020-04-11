@@ -64,16 +64,18 @@
 
 
 
+
+
 # Protect string
-In a managed assembly all strings are clearly identifiable and readable. Even when methods are renamed, strings used in a method may give clues about the purpose of the method. This includes messages (especially error messages) that are displayed to the user. Those strings can be tracked down to the code that uses them. String encryption works by modifying all strings in the assembly and restore their original value at runtime. Since the string data must be restored automatically at runtime, usually without the user providing a decryption key, the data can❌ Not actually be encrypted but only encoded. The algorithm that decodes the data is always included in the obfuscated assembly. This process may affect the runtime performance of the program, either once at startup or for every string usage.
+In a managed assembly all strings are clearly identifiable and readable. Even when methods are renamed, strings used in a method may give clues about the purpose of the method. This includes messages (especially error messages) that are displayed to the user. Those strings can be tracked down to the code that uses them. String encryption works by modifying all strings in the assembly and restore their original value at runtime. Since the string data must be restored automatically at runtime, usually without the user providing a decryption key, the data cannot actually be encrypted but only encoded. The algorithm that decodes the data is always included in the obfuscated assembly. This process may affect the runtime performance of the program, either once at startup or for every string usage.
 
 
 # Protect Code Flow
-Control flow obfuscation is about modifying the program so that it yields the same result when run, but is impossible to decompile into a well-structured source code and is more difficult to understand. Most code obfuscators would replace CIL instructions produced by a.NET compiler with goto s and other instructions that may ❌ Not be decompiled into a valid source code. This process may affect the runtime performance of a method.
+Control flow obfuscation is about modifying the program so that it yields the same result when run, but is impossible to decompile into a well-structured source code and is more difficult to understand. Most code obfuscators would replace CIL instructions produced by a.NET compiler with goto s and other instructions that may not be decompiled into a valid source code. This process may affect the runtime performance of a method.
 
 
 # ProtectCalls
-The way CIL instructions work references to external types and methods are clearly visible and will be unaffected by name obfuscation and control flow obfuscation. Even without reasonable names, the fact that a method makes use of certain framework classes like I/O, networking or cryptography can draw attention to it. Calls to suspicious methods can be redirected through a generated method that only wraps the original call. This wrapper method can be renamed and the called method's name will ❌ No longer appear in the obfuscated method body. The Just-In-Time compiler (JIT) will ❌ Normally inline such short wrapper methods so that it does ❌ Not affect runtime performance.
+The way CIL instructions work references to external types and methods are clearly visible and will be unaffected by name obfuscation and control flow obfuscation. Even without reasonable names, the fact that a method makes use of certain framework classes like I/O, networking or cryptography can draw attention to it. Calls to suspicious methods can be redirected through a generated method that only wraps the original call. This wrapper method can be renamed and the called method's name will no longer appear in the obfuscated method body. The Just-In-Time compiler (JIT) will normally inline such short wrapper methods so that it does not affect runtime performance.
 
 
 # Protect Resources
@@ -81,7 +83,7 @@ Sometimes resources contains sensitive informations, such as credentials or loca
 
 
 # Name Obfuscation
-Name obfuscation changes the name of types and members. Name obfuscation makes the decompiled source harder to understand but the overall flow of the code is ❌ Not obscured. The new names can follow different schemes like "a", "b", "c", or numbers, characters from ❌ Non-Latin scripts, unprintable characters or invisible characters. Names may be used multiple times in a scope by using overloading. While proper names are technically ❌ Not required to execute the assembly, the resulting assembly would be unverifiable.
+Name obfuscation changes the name of types and members. Name obfuscation makes the decompiled source harder to understand but the overall flow of the code is not obscured. The new names can follow different schemes like "a", "b", "c", or numbers, characters from ❌ Non-Latin scripts, unprintable characters or invisible characters. Names may be used multiple times in a scope by using overloading. While proper names are technically ❌ Not required to execute the assembly, the resulting assembly would be unverifiable.
 Name obfuscation is the most basic technique that is used by every.NET obfuscator solution.
 
 
@@ -99,4 +101,5 @@ Code virtualization converts the CIL code into virtual opcodes that will only be
 
 # Packer / Compressor
 This feature allow you to merge all dependencies of your file into a one-file only stub. Usually it can be managed, but there exists solutions to inject your managed files and dependencies into a native stub too. 
+ 
  
