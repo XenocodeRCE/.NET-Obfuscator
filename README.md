@@ -2,61 +2,64 @@
 
  Lists of .NET Obfuscator
  
-![.NET](https://www.mindphp.com/images/knowledge/IT/Microsoft_.NET_logo.png)
+ <p align="center">
+  <img src="https://www.mindphp.com/images/knowledge/IT/Microsoft_.NET_logo.png"/>
+</p>
 
-* [ConfuserEx](https://github.com/yck1509/ConfuserEx) - An open-source, free protector for .NET applications.
-* [NET Reactor](https://www.eziriz.com/) - NET Reactor is a powerful .NET code protection and software licensing system which completely stops any decompiling.
-* [Agile](https://secureteam.net/acode-features-detailed)- Agile.NET, Powerful Code Protection, Obfuscation, and Licensing Solution for your .NET Apps
-* [AppFuscator](https://appfuscator.com/) - Inteligence algorithm provide your application powerful protection! 
-* [Babel](https://www.babelfor.net/) - Protect your software against reverse engineering to safeguard the intellectual property of your code
-* [Beds Protector](https://github.com/BedTheGod/ConfuserEx-Mod-By-Bed) - Beds Protector | Best free obfuscation out right now ( ConfuserEx Mod )
-* [Crypto](https://www.ssware.com/cryptoobfuscator/obfuscator-net.htm) - Powerful Obfuscation & Code Protection For .Net That Actually Works!
-* [DeepSea](https://deepsea-obfuscator.soft112.com/) - DeepSea Obfuscator makes obfuscation of your .NET assemblies an intuitive and integrated part of your product development.
-* [DotNetGuard](https://github.com/Modify24x7/DotNetGuard) - .Net Protector ( ConfuserEx Mod )
-* [DotNetPatcher](https://www.upload.ee/files/11446368/DotNetPatcher.rar.html) - .NET Obfuscator & Packer
-* [Eazfuscator](https://www.gapotchenko.com/eazfuscator.net) - Eazfuscator.NET is the obfuscator for .NET platform. 
-* [Habib Extreme Protector](https://discord.gg/rQ4P6ZV) - A Strong .NET Obfuscator & Protector
-* [ILProtector](http://www.vgrsoft.net/Products/ILProtector) - ILProtector is a protector for .NET applications. ILProtector is designed to protect intellectual property of the software.
-* [Krawk Protector](https://github.com/cristlxrd/Krawk-Protector) - .NET Obfuscator and Protector 
-* [Skater .NET Obfuscator](http://rustemsoft.com/obfuscator.aspx) - Rustemsoft proposes Skater .NET Obfuscator, an obfuscation tool for .NET code protection. It implements all known software protection techniques and obfuscation algorithms.
-* [KoiVM](https://github.com/Loksie/KoiVM-Virtualization) - Virtualization made for .NET using ConfuserEX 
-* [ArmDot](https://www.armdot.com/) - Protection, software licensing tool, and obfuscator for C# and .Net with support of serial keys and files embedding
-* [VMProtect 3.4](https://vmpsoft.com/20190803/vmprotect-3-4/) - VMProtect protects code by executing it on a virtual machine with non-standard architecture that makes it extremely difficult to analyze and crack the software. Besides that, VMProtect generates and verifies serial numbers, limits free upgrades and much more.
-* [StrongVM](https://github.com/Modify24x7/StrongVM) - StrongVM is a virtualizing protector for .NET applications. 
-* [MemeVM](https://github.com/TobitoFatitoNulled/MemeVM) - A small virtualizer for .NET which works together with ConfuserEx 
-* [DNGuard HVM](http://www.dnguard.net/index.php) - Advanced .NET Code Protection and Obfuscation Technology
-* [Phoenix Protector](https://ntcore.com/?page_id=384) - .NET Obfuscator & Protector
-* [NETGuard](https://netguard.io/) - NETGuard.IO will decompose your file, encrypt your strings, data, resources, methods, will perform numerous runtime-based verifications to ensure a fully-shielded security for your file. The list of feature can be founded on our official documentation page. 
-* [Cyphor](https://cyphor.net/details) - Cyphor is more than just an obfuscator. Cyphor is the best, fastest, and most reliable obfuscation protection tool to work with.
-* [SmartAssembly](https://www.red-gate.com/products/dotnet-development/smartassembly/) - Protect your .NET code and IP with SmartAssembly
-* [Themida](https://www.oreans.com/Themida.php) - Advanced Windows software protection system
-* [Noisette](https://github.com/XenocodeRCE/Noisette-Obfuscator) - An Obfuscator for .NET assembly 
-* [Obfuscar](https://github.com/obfuscar/obfuscar) - Open source obfuscation tool for .NET assemblies
-* [Lime-Crypter](https://github.com/NYAN-x-CAT/Lime-Crypter) - An obfuscation tool for .Net + Native files.
-* [AsStrongAsFuck](https://github.com/Charterino/AsStrongAsFuck) - A console obfuscator for .NET assemblies.
-* [Self-Morphing C# Binary](https://github.com/bytecode77/self-morphing-csharp-binary) - C# binary that mutates its own code, encrypts and obfuscates itself on runtime
-* [vot4cs](https://github.com/tum-i22/vot4cs) - A Virtualization Obfuscation Tool for C# program
-* [ModPhuserEx](https://github.com/0xFireball/ModPhuserEx) - A .NET protector supporting .NET Core forked from the discontinued ConfuserEx
-* [Z00bfuscator](https://github.com/Dentrax/Z00bfuscator) - Z00bfuscator is the simple, open-source, cross-platform obfuscator for .NET Assemblies built on .NET Core 
-* [Panda-Obfuscator](https://github.com/barotyson/Panda-Obfuscator) - PandaObfuscator an simple Obfuscator, free, OpenSource for .Net Applications 
-* [Rzy Protector](https://github.com/Riziebtw/RzyProtector) - Rzy Protector | A public confuserex modded
-* [SkiDzEX](https://github.com/NotPrab/SkiDzEX) - A modded version of ConfuserEx | SkiDzEx
-* [Trinity-ConfuserEx-Mod](https://github.com/TrinityNET/Trinity-ConfuserEx-Mod) - A modded ConfuserEx created by Mighty, Bed and Centos. 
-* [DarksProtector](https://github.com/BillytheButcher/DarksProtector) - DarksProtector 2.0 | ConfuserEx Modded 
-* [PEunion](https://github.com/bytecode77/pe-union) - PEunion (Binder, Crypter & Downloader)
-* [Guardship-.NET-Protector](https://github.com/Rustemsoft/Guardship-.NET-Protector) - Guardship .NET Protector is a development software that helps to protect the executable file of .NET application by making its code unreadable for MSIL disassemblers.
-* [Isolated](https://github.com/Sato-Isolated/Isolated) - .NET Obfuscator & Protector
-* [Goldfuscator MIT license](https://github.com/AnErrupTion/Goldfuscator) - A fork of the original SimpleObfuscator project, made for training. 
-* [LoGic.NET](https://github.com/AnErrupTion/LoGiC.NET) - A more advanced free and open .NET obfuscator using dnlib.
-* [Enigma Protector](https://enigmaprotector.com/en/about.html) - A professional system for licensing and protecting
-executable files for Windows.
-* [IntelliLock](https://www.eziriz.com/intellilock.htm) - IntelliLock is an advanced 100% managed solution for licensing controls and applications. While .NET Reactor offers a licensing system based on native code protection, IntelliLock opts a 100% managed way to apply licensing and protection features. This way single files can be produced without the need of additional files. 
-* [Dotfuscator](https://www.preemptive.com/products/dotfuscator/overview) - Dotfucator's .NET obfuscation and runtime checks have protected thousands of apps for over a decade.
-* [Spices](https://www.9rays.net/Category/55-spicesnet-obfuscator.aspx) - Spices.Net Obfuscator is a .Net code obfuscation, protection and optimization tool that offers the wide range of technologies to completely protect your .Net code and secure your data.
-* [BitHelmet](https://bithelmet.software.informer.com/) - BitHelmet obfuscator protects your .NET Portable Executables 
-* [Yano](https://yano.informer.com/) - Yano is an advanced obfuscator for Microsoft .NET applications 
-* [Neo ConfuserEx](https://github.com/XenocodeRCE/neo-ConfuserEx) - Updated ConfuserEX, an open-source, free obfuscator for .NET applications
-* [NetShields](https://discord.gg/baVPenN) - A really strong & recommended for .NET Obfuscator
+| Name/Website |                                Free? |         Protect strings | Protect code flow | Protect calls | Protect resources | Protect names |  Anti tampering |  Anti debugger | Virtualization protection | Packer/Compressor |
+|----------|                                :-------------:   |:-------------:    |:-------------:  |:-------------:|:-------------:    |:-------------:|:-------------:   |:-------------:     |:-------------:|          ------:| 
+|[Agile.NET](https://secureteam.net/acode) | No ($795) |            Yes           | Yes                 | Yes          | Yes                 | Yes          | Yes            | Yes                  | Yes                  | No
+|[Appfuscator](https://appfuscator.com/) | Freemium ($18/day) |   Yes           | Yes                 | Yes          | No                  | Yes          | No             | No                   | No                   | No
+|[ArmDOT](https://www.armdot.com/) | Freemium ($299)           |   No            | No                  | No           | No                  | No           | No             | No                   | Yes                  | No
+|[AsStrongAsFuck](https://github.com/Charterino/AsStrongAsFuck) | Yes  |   Yes    | Yes                 | Yes          | No                  | Yes          | No             | No                   | No                   | Yes
+|[Babel](https://www.babelfor.net/)        | No (245€)          |   Yes           | Yes                 | Yes          | No                  | Yes          | No             | Yes                  | Yes                  | No
+|[Beds Protector](https://github.com/BedTheGod/ConfuserEx-Mod-By-Bed) | Yes | Yes | Yes                 | Yes          | Yes                 | Yes          | Yes            | Yes                  | No                   | Yes
+|[BitHelmet](https://bithelmet.software.informer.com/) | Yes    | No              | Yes                 | No           | No                  | Yes          | No             | No                   | No                   | No 
+|[ConfuserEx](https://github.com/yck1509/ConfuserEx) | Yes      | Yes             | Yes                 | Yes          | Yes                 | Yes          | Yes            | Yes                  | Yes with [KoiVM](https://github.com/yck1509/KoiVM) (free) | Yes 
+|[Crypto Obfuscator](https://www.ssware.com/cryptoobfuscator/obfuscator-net.htm) | Freemium ($299)|Yes| Yes | Yes      | Yes                 | Yes          | Yes            | Yes                  | Yes                  | Yes 
+|[Cyphor](https://cyphor.net/details)      | No ($499 for full) |  Yes            | Yes                 | Yes          | Yes                 | Yes          | Yes            | Yes                  | Yes                  | Yes
+|[DarksProtector](https://github.com/BillytheButcher/DarksProtector)| Yes |  Yes  | Yes                 | Yes          | Yes                 | Yes          | Yes            | Yes                  | Yes                  | Yes
+|[DeepSea](https://deepsea-obfuscator.soft112.com/)| Yes        |  Yes            | Yes                 | No           | No                  | Yes          | No             | No                   | No                   | No
+|[DNG HVM](http://www.dnguard.net/index.php)| No ($1299)        |  Yes            | No                  | No           | Yes                 | Yes          | Yes            | Yes                  | Yes                  | No
+|[DotNetGuard](https://github.com/Modify24x7/DotNetGuard)| Yes  |  Yes            | Yes                 | No           | No                  | Yes          | No             | Yes                  | Yes                  | No
+|[DotNetPatcher](https://www.upload.ee/files/11446368/DotNetPatcher.rar.html)| Yes |  Yes | Yes         | Yes          | No                  | Yes          | Yes            | Yes                  | No                   | No
+|[Dotfuscator](https://www.preemptive.com/products/dotfuscator/overview)| No ($1495) |  Yes | Yes       | No           | No                  | Yes          | Yes            | Yes                  | No                   | No
+|[Enigmaprotector](https://enigmaprotector.com/en/about.html)| No ($199) |  No     | No                 | No           | No                  | No           | No             | Yes                  | No                   | Yes
+|[Eazfuscator](https://www.gapotchenko.com/eazfuscator.net)| Freemium ($399) |  Yes     | Yes           | No           | Yes                 | Yes          | No             | Yes                  | Yes                  | Yes
+|[Guardship](https://github.com/Rustemsoft/Guardship-.NET-Protector)| Freemium ($199) |  No    | No                 | No           | No                  | No           | No             | Yes                  | Yes                  | No
+|[HabibProtector](https://discord.gg/rQ4P6ZV)| No ($299)        |  Yes            | Yes                 | Yes          | No                  | Yes          | Yes            | Yes                  | Yes                  | No
+|[ILProtector](http://www.vgrsoft.net/Products/ILProtector)| Freemium ($149) |  Yes  | No               | No           | No                  | No           | Yes            | Yes                  | No                   | Yes
+|[Isolated](https://github.com/Sato-Isolated/Isolated)| Yes     |  Yes             | Yes                | Yes          | No                  | Yes          | Yes            | Yes                  | No                   | No
+|[KrawkProtector](https://github.com/cristlxrd/Krawk-Protector)| Yes |  Yes        | Yes                | Yes          | No                  | Yes          | Yes            | Yes                  | No                   | No
+|[Logic.NET](https://github.com/AnErrupTion/LoGiC.NET)| Yes     |  Yes            | No                  | Yes          | No                  | Yes          | Yes            | No                   | No                   | No
+|[MemeVM](https://github.com/TobitoFatitoNulled/MemeVM)| Yes    |  No             | No                  | No           | No                  | No           | No             | No                   | Yes                  | No
+|[ModPhuserEx](https://github.com/0xFireball/ModPhuserEx)| Yes  |  Yes            | Yes                 | Yes          | Yes                 | Yes          | Yes            | Yes                  | No                   | No
+|[NETReactor](https://www.eziriz.com/)| No ($179)               |  Yes            | Yes                 | Yes          | Yes                 | Yes          | Yes            | Yes                  | Yes                  | No
+|[NeoConfuserEx](https://github.com/XenocodeRCE/neo-ConfuserEx) | Yes |  Yes      | Yes                 | Yes          | Yes                 | Yes          | Yes            | Yes                  | Yes with [KoiVM](https://github.com/yck1509/KoiVM) (free) | Yes
+|[NETGuard](https://netguard.io/)| No ($5 for 2 obfuscations)   |  Yes            | Yes                 | Yes          | No                  | Yes          | Yes            | Yes                  | Yes                  | No
+|[NetShieldObfuscator](https://discord.gg/baVPenN)| No (10€ for 4 obfuscations)   |  Yes | Yes          | Yes          | No                  | Yes          | Yes            | Yes                  | Yes                  | No
+|[Noisette](https://github.com/XenocodeRCE/Noisette-Obfuscator)| Yes   |  Yes     | Yes                 | Yes          | No                  | Yes          | No             | No                   | No                   | No
+|[Obfuscar](https://github.com/obfuscar/obfuscar)| Yes          |  Yes            | No                  | No           | No                  | Yes          | No             | No                   | No                   | No
+|[PhoenixProtector](https://ntcore.com/?page_id=384)| Yes       |  Yes            | Yes                 | No           | No                  | Yes          | No             | No                   | No                   | No
+|[PandaObfuscator](https://github.com/barotyson/Panda-Obfuscator)| Yes |  Yes     | Yes                 | Yes          | No                  | No           | No             | No                   | No                   | No
+|[RzyProtector](https://github.com/Riziebtw/RzyProtector)| Yes  |  Yes            | Yes                 | Yes          | Yes                 | Yes          | Yes            | Yes                  | No                   | No
+|[SkiDzEx](https://github.com/NotPrab/SkiDzEX)| Yes             |  Yes            | Yes                 | Yes          | Yes                 | Yes          | Yes            | Yes                  | No                   | No
+|[SmartAssembly](https://www.red-gate.com/products/dotnet-development/smartassembly/)| Freemium (945€)  | Yes | Yes | Yes | Yes              | Yes          | Yes            | Yes                  | No                   | No
+|[StrongVM](https://github.com/Modify24x7/StrongVM)| Freemium ($99)  | Yes             | No             | No            | Yes                | No           | Yes            | Yes                  | Yes                  | No
+|[Skater Obfuscator](http://rustemsoft.com/obfuscator.aspx)| No ($79)  | Yes             | Yes           | No            | No                | Yes          | Yes            | Yes                  | No                   | No
+|[Spices](https://www.9rays.net/Category/55-spicesnet-obfuscator.aspx)| No ($340)  | Yes | Yes          | Yes           | Yes                | Yes          | Yes            | Yes                  | No                   | No
+|[Themida](https://www.oreans.com/Themida.php)| No ($199)      | No                 | No                | No            | Yes                | No           | Yes            | Yes                  | No                   | Yes
+|[Trinity Obfuscator](https://github.com/TrinityNET/Trinity-ConfuserEx-Mod)| Yes  | Yes  | Yes          | Yes           | No                 | Yes          | Yes            | Yes                  | No                   | No
+|[VMProtect](https://vmpsoft.com/) | No ($149)                 | No               | Yes                 | Yes           | No                 | No           | Yes            | Yes                  | Yes                  | No
+|[Vot4CS](https://github.com/tum-i22/vot4cs) | Yes             | No               | No                  | No            | No                 | No           | No             | No                   | Yes                  | No
+|[YanoObfuscator](https://yano.informer.com/) | Yes            | Yes              | No                  | No            | No                 | Yes          | No             | No                   | No                   | No
+|[Z00bfuscator](https://github.com/Dentrax/Z00bfuscator) | Yes | No               | No                  | No            | No                 | Yes          | No             | No                   | No                   | No
+
+
+
+
+
+
 
 
 
