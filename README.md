@@ -3,14 +3,14 @@
  Lists of .NET Obfuscator
  
  <p align="center">
-  <img src="https://www.mindphp.com/images/knowledge/IT/Microsoft_.NET_logo.png"/>
+  <img src="https://www.mindphp.com/imagaeas/knowledge/IT/Microsoft_.NET_logo.png"/>
 </p>
 
 | Name/Website |                                Free? |         Protect strings | Protect code flow | Protect calls | Protect resources | Protect names |  Anti tampering |  Anti debugger | Virtualization protection | Packer/Compressor |
 |----------|                                :-------------:   |:-------------:    |:-------------:  |:-------------:|:-------------:    |:-------------:|:-------------:   |:-------------:     |:-------------:|          ------:| 
 |[Agile.NET](https://secureteam.net/acode) | ❌ No ($795) |            ✅ Yes           | ✅ Yes                 | ✅ Yes          | ✅ Yes                 | ✅ Yes          | ✅ Yes            | ✅ Yes                  | ✅ Yes                  | ❌ No
 |[Appfuscator](https://appfuscator.com/) | ❌ No Freemium ($18/day) |   ✅ Yes           | ✅ Yes                 | ✅ Yes          | ❌ No                  | ✅ Yes          | ❌ No             | ❌ No                   | ❌ No                   | ❌ No
-|[ArmDOT](https://www.armdot.com/) | ❌ No Freemium ($299)           |   ❌ No            | ❌ No                  | ❌ No           | ❌ No                  | ❌ No           | ❌ No             | ❌ No                   | ✅ Yes                  | ❌ No
+|[ArmDOT](https://www.armdot.com/) | ❌ No Freemium ($299)          |   ❌ No            | ✅ Yes                | ❌ No           | ❌ No                  | ✅ Yes           | ❌ No             | ❌ No                   | ✅ Yes                  | ❌ No
 |[AsStrongAsFuck](https://github.com/Charterino/AsStrongAsFuck) | ✅ Yes  |   ✅ Yes    | ✅ Yes                 | ✅ Yes          | ❌ No                  | ✅ Yes          | ❌ No             | ❌ No                   | ❌ No                   | ✅ Yes
 |[Babel](https://www.babelfor.net/)        | ❌ No (245€)          |   ✅ Yes           | ✅ Yes                 | ✅ Yes          | ❌ No                  | ✅ Yes          | ❌ No             | ✅ Yes                  | ✅ Yes                  | ❌ No
 |[Beds Protector](https://github.com/BedTheGod/ConfuserEx-Mod-By-Bed) | ✅ Yes | ✅ Yes | ✅ Yes                 | ✅ Yes          | ✅ Yes                 | ✅ Yes          | ✅ Yes            | ✅ Yes                  | ❌ No                   | ✅ Yes
