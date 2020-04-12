@@ -3,7 +3,7 @@
  Lists of .NET Obfuscator
  
  <p align="center">
-  <img src="https://www.mindphp.com/imagaeas/knowledge/IT/Microsoft_.NET_logo.png"/>
+  <img src="https://www.mindphp.com/images/knowledge/IT/Microsoft_.NET_logo.png"/>
 </p>
 
 | Name/Website |                                Free? |         Protect strings | Protect code flow | Protect calls | Protect resources | Protect names |  Anti tampering |  Anti debugger | Virtualization protection | Packer/Compressor |
